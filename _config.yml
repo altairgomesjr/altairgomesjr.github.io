@@ -1,0 +1,17 @@
+title: Altair R. Gomes-Júnior
+description: Personal academic website
+theme: minima
+markdown: kramdown
+show_excerpts: false
+
+header_pages:
+  - research.md
+  - publications.md
+  - software.md
+  - contact.md
+
+minima:
+  social_links: []
+
+plugins:
+  - jekyll-feed
