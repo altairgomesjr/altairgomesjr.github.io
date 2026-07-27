@@ -3,40 +3,51 @@ layout: default
 title: Home
 ---
 
-# Altair R. Gomes-Júnior
+<section class="hero">
+  <p class="eyebrow">Astronomy · Astrometry · Solar System</p>
+  <h1>Altair R. Gomes-Júnior</h1>
+  <p class="lead">Associate Professor of Physics at the Federal University of Uberlândia, investigating the Solar System through high-precision observations.</p>
+  <div class="hero-actions">
+    <a class="button" href="./research">Explore my research</a>
+    <a class="button secondary" href="./contact">Get in touch</a>
+  </div>
+</section>
 
-Associate Professor of Physics  
-Federal University of Uberlândia (UFU), Brazil
-
-I am an astronomer working on high-precision astrometry, stellar occultations, and related observational methods applied to Solar System research. My work also includes the development of scientific software and data-analysis tools to support prediction, reduction, and interpretation of astronomical observations.
-
-## About
+## About my work
 
 My research focuses on the use of precise positional and photometric measurements to study small bodies in the Solar System. I am particularly interested in stellar occultations, ephemeris improvement, reference systems, and methods that connect observational campaigns to reproducible scientific workflows.
 
 I collaborate on observational programs, prediction efforts, and software development projects involving occultations, astrometry, and time-domain astronomy.
 
-## Research Interests
+## Research interests
 
-- Stellar occultations
-- Astrometry
-- Solar System small bodies
-- Microlensing prediction methods
-- Scientific software development
-- Observational data analysis
+<div class="feature-grid">
+  <article class="feature-card">
+    <div class="icon" aria-hidden="true">✦</div>
+    <h3>Stellar occultations</h3>
+    <p>Predicting and observing events that reveal the sizes, shapes, rings, and atmospheres of distant bodies.</p>
+  </article>
+  <article class="feature-card">
+    <div class="icon" aria-hidden="true">⌖</div>
+    <h3>Precision astrometry</h3>
+    <p>Improving positions, orbits, and ephemerides through precise measurements and reference systems.</p>
+  </article>
+  <article class="feature-card">
+    <div class="icon" aria-hidden="true">◉</div>
+    <h3>Scientific software</h3>
+    <p>Building reproducible tools that connect astronomical observations, modeling, and interpretation.</p>
+  </article>
+</div>
 
-## Current Projects
+## Current projects
 
 Current activities include software development for occultation analysis, astrometric studies of small bodies and irregular satellites, probabilistic prediction methods for astronomical events, and collaborative observational campaigns.
 
-## Quick Links
+## Explore
 
-- [Research](./research)
-- [Publications](./publications)
-- [Software & Data](./software)
-- [Contact](./contact)
-- [ORCID]([ORCID profile URL])
-- [NASA ADS]([NASA ADS profile URL])
-- [Google Scholar]([Google Scholar profile URL])
-- [GitHub]([GitHub profile URL])
-- [CV]([Link to full CV PDF])
+<div class="link-grid">
+  <a class="link-card" href="./research">Research <span aria-hidden="true">→</span></a>
+  <a class="link-card" href="./publications">Publications <span aria-hidden="true">→</span></a>
+  <a class="link-card" href="./software">Software &amp; Data <span aria-hidden="true">→</span></a>
+  <a class="link-card" href="./contact">Contact <span aria-hidden="true">→</span></a>
+</div>
